@@ -1,0 +1,21 @@
+{
+  "name": "FuelEx-AOI-Template",
+  "version": "0.1-BETA",
+  "description": "A basic AOI.JS Template made by FuelEx's Owner DaBoltGod",
+  "private": false,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fuelex/aoijs-template"
+  },
+  "author": "FuelEx | DaBoltGod",
+  "license": "MIT",
+  "dependencies": {
+    "aoijs": "aoi.js",
+    "aoidb": "@akarui/aoi.db"
+  }
