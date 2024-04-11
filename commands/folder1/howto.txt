@@ -1,0 +1,3 @@
+To create additional folders just add them to the commands directory and add commands to it.
+
+  For example you could create a folder in ./commands named info (./commands/info) and add a help command. I'll throw an example there!
